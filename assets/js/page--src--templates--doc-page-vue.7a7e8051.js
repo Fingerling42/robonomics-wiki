@@ -77,17 +77,6 @@ eval("module.exports = __webpack_require__.p + \"assets/img/ethereum-common-mess
 
 /***/ }),
 
-/***/ "2kgu":
-/*!*************************************************************************!*\
-  !*** ./docs/docsCovers/wschool2021-connect-robotics-to-user-app-en.png ***!
-  \*************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"assets/img/wschool2021-connect-robotics-to-user-app-en.a8789f1e.png\";\n\n//# sourceURL=webpack:///./docs/docsCovers/wschool2021-connect-robotics-to-user-app-en.png?");
-
-/***/ }),
-
 /***/ "2pry":
 /*!*********************************************!*\
   !*** ./docs/docsCovers/spot-lesson0-en.png ***!
@@ -243,17 +232,6 @@ eval("module.exports = __webpack_require__.p + \"assets/img/iot-sensors-connecti
 
 /***/ }),
 
-/***/ "7Sh5":
-/*!*****************************************!*\
-  !*** ./docs/docsCovers/use-dapp-en.png ***!
-  \*****************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"assets/img/use-dapp-en.69d2aad0.png\";\n\n//# sourceURL=webpack:///./docs/docsCovers/use-dapp-en.png?");
-
-/***/ }),
-
 /***/ "7eP+":
 /*!************************************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib??ref--13-0!./node_modules/gridsome/lib/plugins/vue-components/lib/loaders/page-query.js!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/templates/DocPage.vue?vue&type=custom&index=0&blockType=page-query ***!
@@ -296,17 +274,6 @@ eval("module.exports = __webpack_require__.p + \"assets/img/aira-connecting-via-
 /***/ (function(module, exports, __webpack_require__) {
 
 eval("module.exports = __webpack_require__.p + \"assets/img/spot-try-it-out-en.bc119b49.png\";\n\n//# sourceURL=webpack:///./docs/docsCovers/spot-try-it-out-en.png?");
-
-/***/ }),
-
-/***/ "Aepf":
-/*!*******************************************************!*\
-  !*** ./docs/docsCovers/mqtt-broker-setup-core-en.png ***!
-  \*******************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"assets/img/mqtt-broker-setup-core-en.20a3ffff.png\";\n\n//# sourceURL=webpack:///./docs/docsCovers/mqtt-broker-setup-core-en.png?");
 
 /***/ }),
 
@@ -384,17 +351,6 @@ eval("module.exports = __webpack_require__.p + \"assets/img/sls-gateway-en.1f968
 /***/ (function(module, exports, __webpack_require__) {
 
 eval("module.exports = __webpack_require__.p + \"assets/img/hardware-connect-sensor-en.1814f8f9.png\";\n\n//# sourceURL=webpack:///./docs/docsCovers/hardware-connect-sensor-en.png?");
-
-/***/ }),
-
-/***/ "DRlW":
-/*!***************************************************************!*\
-  !*** ./docs/docsCovers/add-smart-device-to-robonomics-en.png ***!
-  \***************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"assets/img/add-smart-device-to-robonomics-en.f0332c44.png\";\n\n//# sourceURL=webpack:///./docs/docsCovers/add-smart-device-to-robonomics-en.png?");
 
 /***/ }),
 
@@ -662,17 +618,6 @@ eval("module.exports = __webpack_require__.p + \"assets/img/smart-home-telemetry
 
 /***/ }),
 
-/***/ "PzAw":
-/*!**************************************************!*\
-  !*** ./docs/docsCovers/wschool2021-intro-en.png ***!
-  \**************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"assets/img/wschool2021-intro-en.b7eb7120.png\";\n\n//# sourceURL=webpack:///./docs/docsCovers/wschool2021-intro-en.png?");
-
-/***/ }),
-
 /***/ "Q/3B":
 /*!*********************************************!*\
   !*** ./docs/docsCovers/spot-lesson1-en.png ***!
@@ -750,28 +695,6 @@ eval("module.exports = __webpack_require__.p + \"assets/img/datalog-en.950cbfac.
 
 /***/ }),
 
-/***/ "Uq+i":
-/*!*****************************************************************!*\
-  !*** ./docs/docsCovers/wschool2021-build-dapp-interface-en.png ***!
-  \*****************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"assets/img/wschool2021-build-dapp-interface-en.1fcc6d9d.png\";\n\n//# sourceURL=webpack:///./docs/docsCovers/wschool2021-build-dapp-interface-en.png?");
-
-/***/ }),
-
-/***/ "WS4n":
-/*!*************************************************************!*\
-  !*** ./docs/docsCovers/robonomics-integration-setup-en.png ***!
-  \*************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"assets/img/robonomics-integration-setup-en.e99c0783.png\";\n\n//# sourceURL=webpack:///./docs/docsCovers/robonomics-integration-setup-en.png?");
-
-/***/ }),
-
 /***/ "WSps":
 /*!******************************************************************!*\
   !*** ./src/templates/DocPage.vue?vue&type=template&id=f8ef37a0& ***!
@@ -815,17 +738,6 @@ eval("module.exports = __webpack_require__.p + \"assets/img/zigbee2-mqtt-en.974d
 /***/ (function(module, exports, __webpack_require__) {
 
 eval("module.exports = __webpack_require__.p + \"assets/img/get-subscription-en.98ad8e02.png\";\n\n//# sourceURL=webpack:///./docs/docsCovers/get-subscription-en.png?");
-
-/***/ }),
-
-/***/ "Y46q":
-/*!****************************************************!*\
-  !*** ./docs/docsCovers/hass-install-docker-en.png ***!
-  \****************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"assets/img/hass-install-docker-en.7fcc51d6.png\";\n\n//# sourceURL=webpack:///./docs/docsCovers/hass-install-docker-en.png?");
 
 /***/ }),
 
@@ -873,17 +785,6 @@ eval("module.exports = __webpack_require__.p + \"assets/img/zigbee-to-mqtt-en.91
 
 /***/ }),
 
-/***/ "ZFSO":
-/*!*******************************************************!*\
-  !*** ./docs/docsCovers/upgrade-your-hass-core-en.png ***!
-  \*******************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"assets/img/upgrade-your-hass-core-en.8076380a.png\";\n\n//# sourceURL=webpack:///./docs/docsCovers/upgrade-your-hass-core-en.png?");
-
-/***/ }),
-
 /***/ "Zb/o":
 /*!*****************************************!*\
   !*** ./docs/docsCovers/gaka-chu-en.png ***!
@@ -926,28 +827,6 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _nod
 /***/ (function(module, exports, __webpack_require__) {
 
 eval("module.exports = __webpack_require__.p + \"assets/img/translate-wiki-en.e883a9a8.png\";\n\n//# sourceURL=webpack:///./docs/docsCovers/translate-wiki-en.png?");
-
-/***/ }),
-
-/***/ "bbGk":
-/*!******************************************!*\
-  !*** ./docs/docsCovers/sls-setup-en.png ***!
-  \******************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"assets/img/sls-setup-en.dc24d327.png\";\n\n//# sourceURL=webpack:///./docs/docsCovers/sls-setup-en.png?");
-
-/***/ }),
-
-/***/ "bix6":
-/*!*****************************************************************!*\
-  !*** ./docs/docsCovers/wschool2021-connectivity-service-en.png ***!
-  \*****************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"assets/img/wschool2021-connectivity-service-en.1bf5a3a5.png\";\n\n//# sourceURL=webpack:///./docs/docsCovers/wschool2021-connectivity-service-en.png?");
 
 /***/ }),
 
@@ -1018,28 +897,6 @@ eval("module.exports = __webpack_require__.p + \"assets/img/connectivity-termina
 
 /***/ }),
 
-/***/ "e1C5":
-/*!********************************************!*\
-  !*** ./docs/docsCovers/mqtt-broker-en.png ***!
-  \********************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"assets/img/mqtt-broker-en.9aa997a3.png\";\n\n//# sourceURL=webpack:///./docs/docsCovers/mqtt-broker-en.png?");
-
-/***/ }),
-
-/***/ "e39L":
-/*!*********************************************************************!*\
-  !*** ./docs/docsCovers/wschool2021-build-dapp-for-end-users-en.png ***!
-  \*********************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"assets/img/wschool2021-build-dapp-for-end-users-en.7dfefa4f.png\";\n\n//# sourceURL=webpack:///./docs/docsCovers/wschool2021-build-dapp-for-end-users-en.png?");
-
-/***/ }),
-
 /***/ "eBLb":
 /*!*******************************************************************************!*\
   !*** ./docs/docsCovers/how to update robonomics collator node version-en.png ***!
@@ -1048,17 +905,6 @@ eval("module.exports = __webpack_require__.p + \"assets/img/wschool2021-build-da
 /***/ (function(module, exports, __webpack_require__) {
 
 eval("module.exports = __webpack_require__.p + \"assets/img/how to update robonomics collator node version-en.9bace2a1.png\";\n\n//# sourceURL=webpack:///./docs/docsCovers/how_to_update_robonomics_collator_node_version-en.png?");
-
-/***/ }),
-
-/***/ "edwM":
-/*!***************************************************!*\
-  !*** ./docs/docsCovers/hass-install-image-en.png ***!
-  \***************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"assets/img/hass-install-image-en.3084a576.png\";\n\n//# sourceURL=webpack:///./docs/docsCovers/hass-install-image-en.png?");
 
 /***/ }),
 
@@ -1103,17 +949,6 @@ eval("module.exports = __webpack_require__.p + \"assets/img/sensors-network-intr
 /***/ (function(module, exports, __webpack_require__) {
 
 eval("module.exports = __webpack_require__.p + \"assets/img/robonomics-test-network-manual-en.34527896.png\";\n\n//# sourceURL=webpack:///./docs/docsCovers/robonomics-test-network-manual-en.png?");
-
-/***/ }),
-
-/***/ "gpUZ":
-/*!***********************************************************************!*\
-  !*** ./docs/docsCovers/wschool2021-robonomics-github-overview-en.png ***!
-  \***********************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"assets/img/wschool2021-robonomics-github-overview-en.9c5541ef.png\";\n\n//# sourceURL=webpack:///./docs/docsCovers/wschool2021-robonomics-github-overview-en.png?");
 
 /***/ }),
 
@@ -1168,7 +1003,7 @@ eval("module.exports = __webpack_require__.p + \"assets/img/hass-init-en.c5b3fb6
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("var map = {\n\t\"./add-smart-device-to-robonomics-en.png\": \"DRlW\",\n\t\"./adding-funds-to-account-in-dapp-en.png\": \"LAy4\",\n\t\"./agent-development-examples-en.png\": \"0Eq3\",\n\t\"./aira-basic-usage-en.png\": \"tdO8\",\n\t\"./aira-connecting-via-ssh-en.png\": \"92ft\",\n\t\"./aira-faq-en.png\": \"OrGk\",\n\t\"./aira-installation-en.png\": \"Y5Xt\",\n\t\"./aira-installation-on-vb-en.png\": \"BIAQ\",\n\t\"./aira-overview-en.png\": \"qK92\",\n\t\"./baxter-en.png\": \"kGUD\",\n\t\"./baxter2-en.png\": \"F2wv\",\n\t\"./carbon-footprint-sensor-en.png\": \"uKws\",\n\t\"./carbon-footprint-service-en.png\": \"z7kF\",\n\t\"./changing-exodus-receiving-address-en.png\": \"mYTL\",\n\t\"./community-en.png\": \"lIBr\",\n\t\"./configuration-options-description-en.png\": \"Kvxm\",\n\t\"./connect-any-ros-compatible-robot-under-robonomics-parachain-control-1-en.png\": \"eqxc\",\n\t\"./connect-any-ros-compatible-robot-under-robonomics-parachain-control-2-en.png\": \"v1/N\",\n\t\"./connect-mars-curiosity-rover-under-robonomics-parachain-control-en.png\": \"jyUC\",\n\t\"./connect-sensor-to-robonomics-en.png\": \"Dg6W\",\n\t\"./connect-simple-cps-en.png\": \"qauA\",\n\t\"./connectivity-terminal-readme-en.png\": \"dbKQ\",\n\t\"./contributing-en.png\": \"nHSM\",\n\t\"./create-account-in-dapp-en.png\": \"4vvK\",\n\t\"./create-digital-identity-run-by-ethereum-en.png\": \"y3XH\",\n\t\"./cross-chain-messages-en.png\": \"3ju6\",\n\t\"./datalog-en.png\": \"SymH\",\n\t\"./deploy-sensor-map-en.png\": \"MdDA\",\n\t\"./digital-twins-en.png\": \"y4vX\",\n\t\"./edit-wiki-en.png\": \"Khtf\",\n\t\"./ethereum-common-en.png\": \"zlcB\",\n\t\"./ethereum-common-messages-en.png\": \"29Ar\",\n\t\"./feecc-system-architecture-en.png\": \"5wC+\",\n\t\"./feecc-system-deploy-feecc-analytics-en.png\": \"cJwD\",\n\t\"./feecc-system-deploy-feecc-wb-en.png\": \"FZmz\",\n\t\"./feecc-system-dev-feecc-analytics-en.png\": \"imwK\",\n\t\"./feecc-system-overview-en.png\": \"s7Gu\",\n\t\"./feecc-system-quickstart-en.png\": \"t7Vp\",\n\t\"./feecc-system-supporthardware-en.png\": \"An2I\",\n\t\"./freertos-mqtt-en.png\": \"qGfa\",\n\t\"./gaka-chu-en.png\": \"Zb/o\",\n\t\"./get-subscription-en.png\": \"Xcs0\",\n\t\"./getting-started-en.png\": \"g05E\",\n\t\"./global-administration-en.png\": \"Sb5a\",\n\t\"./glossary-en.png\": \"4HdC\",\n\t\"./hardware-connect-sensor-en.png\": \"D6UU\",\n\t\"./hardware-passing-dynamic-parameters-en.png\": \"B/K+\",\n\t\"./hass-core-upgrade-en.png\": \"nhgA\",\n\t\"./hass-docker-upgrade-en.png\": \"JIlO\",\n\t\"./hass-image-install-en.png\": \"EnAj\",\n\t\"./hass-init-en.png\": \"j7I2\",\n\t\"./hass-install-docker-en.png\": \"Y46q\",\n\t\"./hass-install-image-en.png\": \"edwM\",\n\t\"./hass-os-upgrade-en.png\": \"nzXq\",\n\t\"./home-assistant-begin-en.png\": \"ySCY\",\n\t\"./how to update robonomics collator node version-en.png\": \"eBLb\",\n\t\"./how-to-build-collator-node-en.png\": \"JVkh\",\n\t\"./how-to-launch-the-robonomics-collator-en.png\": \"2wET\",\n\t\"./interact-with-aira-en.png\": \"RJI1\",\n\t\"./iot-firmware-upload-en.png\": \"CLu3\",\n\t\"./iot-sensors-connectivity-en.png\": \"7HmW\",\n\t\"./iot-sub-setup-en.png\": \"3v+Y\",\n\t\"./ipfs-common-en.png\": \"wNIr\",\n\t\"./ipfs-common-messages-en.png\": \"noq/\",\n\t\"./iris-drone-en.png\": \"EjR3\",\n\t\"./kuka-en.png\": \"Yil8\",\n\t\"./launch-en.png\": \"DkHd\",\n\t\"./liability-en.png\": \"C2Er\",\n\t\"./lightsout-factory-about-en.png\": \"n2Xa\",\n\t\"./lightsout-factory-ports-en.png\": \"k6IA\",\n\t\"./market-messages-en.png\": \"yMDi\",\n\t\"./mqtt-broker-en.png\": \"e1C5\",\n\t\"./mqtt-broker-setup-core-en.png\": \"Aepf\",\n\t\"./mqtt-hassos-en.png\": \"3bBO\",\n\t\"./mqtt-image-docker-core-en.png\": \"s7Z3\",\n\t\"./mqtt-integration-en.png\": \"yAZ8\",\n\t\"./notifications-en.png\": \"itmn\",\n\t\"./playground-overview-en.png\": \"MaVI\",\n\t\"./r-and-d-based-on-robonomics-network-en.png\": \"YeJY\",\n\t\"./rinterface-en.png\": \"pEdv\",\n\t\"./robonomics-become-a-provider-en.png\": \"c1zx\",\n\t\"./robonomics-coffee-en.png\": \"7/nz\",\n\t\"./robonomics-contracts-deployment-en.png\": \"7yOJ\",\n\t\"./robonomics-hass-integration-en.png\": \"Ns3M\",\n\t\"./robonomics-how-it-works-en.png\": \"SKmx\",\n\t\"./robonomics-integration-setup-en.png\": \"WS4n\",\n\t\"./robonomics-js-en.png\": \"KIzc\",\n\t\"./robonomics-liability-en.png\": \"qOI+\",\n\t\"./robonomics-liability-messages-en.png\": \"xRRl\",\n\t\"./robonomics-prometheus-grafana-en.png\": \"c3cg\",\n\t\"./robonomics-smart-home-overview-en.png\": \"GX92\",\n\t\"./robonomics-test-network-manual-en.png\": \"gTQY\",\n\t\"./ros-smart-projects-en.png\": \"1QSh\",\n\t\"./roseman-en.png\": \"4/9G\",\n\t\"./run-dev-node-en.png\": \"LBOO\",\n\t\"./securely-connect-cloud-ai-to-the-factory-floor-en.png\": \"2+8B\",\n\t\"./sensor-hardware-en.png\": \"K4Q2\",\n\t\"./sensor-setup-en.png\": \"dG1B\",\n\t\"./sensors-connectivity-contribution-en.png\": \"/fmS\",\n\t\"./sensors-connectivity-on-aira-en.png\": \"v0kC\",\n\t\"./sensors-connectivity-setup-en.png\": \"0LSX\",\n\t\"./sensors-network-introduction-en.png\": \"gHXQ\",\n\t\"./sls-gateway-en.png\": \"COFF\",\n\t\"./sls-setup-en.png\": \"bbGk\",\n\t\"./smart-home-telemetry-en.png\": \"Pinx\",\n\t\"./spot-lesson0-en.png\": \"2pry\",\n\t\"./spot-lesson1-en.png\": \"Q/3B\",\n\t\"./spot-lesson2-en.png\": \"hX00\",\n\t\"./spot-lesson3-en.png\": \"4JBA\",\n\t\"./spot-lesson4-en.png\": \"+4JW\",\n\t\"./spot-lesson5-en.png\": \"xNFf\",\n\t\"./spot-troubleshooting-en.png\": \"HKAp\",\n\t\"./spot-try-it-out-en.png\": \"9SWk\",\n\t\"./sub-activate-en.png\": \"4xtK\",\n\t\"./subscription-launch-en.png\": \"NORK\",\n\t\"./technical-committee-fast-track-en.png\": \"JsqE\",\n\t\"./translate-wiki-en.png\": \"aY5B\",\n\t\"./troubleshooting-en.png\": \"Zhhw\",\n\t\"./upgrade-hass-os-en.png\": \"r/TK\",\n\t\"./upgrade-your-hass-core-en.png\": \"ZFSO\",\n\t\"./use-blueprints-en.png\": \"RUWx\",\n\t\"./use-dapp-en.png\": \"7Sh5\",\n\t\"./wschool2021-build-dapp-for-end-users-en.png\": \"e39L\",\n\t\"./wschool2021-build-dapp-interface-en.png\": \"Uq+i\",\n\t\"./wschool2021-connect-robotics-to-user-app-en.png\": \"2kgu\",\n\t\"./wschool2021-connectivity-service-en.png\": \"bix6\",\n\t\"./wschool2021-intro-en.png\": \"PzAw\",\n\t\"./wschool2021-robonomics-github-overview-en.png\": \"gpUZ\",\n\t\"./wschool2021-robonomics-io-in-practice-en.png\": \"tKwg\",\n\t\"./wschool2021-robonomics-parachain-in-practice-en.png\": \"x0fr\",\n\t\"./xcm-robobank-en.png\": \"QwKG\",\n\t\"./zigbee-to-mqtt-en.png\": \"Yo0K\",\n\t\"./zigbee2-mqtt-en.png\": \"WpQe\"\n};\n\n\nfunction webpackContext(req) {\n\tvar id = webpackContextResolve(req);\n\treturn __webpack_require__(id);\n}\nfunction webpackContextResolve(req) {\n\tif(!__webpack_require__.o(map, req)) {\n\t\tvar e = new Error(\"Cannot find module '\" + req + \"'\");\n\t\te.code = 'MODULE_NOT_FOUND';\n\t\tthrow e;\n\t}\n\treturn map[req];\n}\nwebpackContext.keys = function webpackContextKeys() {\n\treturn Object.keys(map);\n};\nwebpackContext.resolve = webpackContextResolve;\nmodule.exports = webpackContext;\nwebpackContext.id = \"jEse\";\n\n//# sourceURL=webpack:///./docs/docsCovers_sync_^\\.\\/.*$?");
+eval("var map = {\n\t\"./adding-funds-to-account-in-dapp-en.png\": \"LAy4\",\n\t\"./agent-development-examples-en.png\": \"0Eq3\",\n\t\"./aira-basic-usage-en.png\": \"tdO8\",\n\t\"./aira-connecting-via-ssh-en.png\": \"92ft\",\n\t\"./aira-faq-en.png\": \"OrGk\",\n\t\"./aira-installation-en.png\": \"Y5Xt\",\n\t\"./aira-installation-on-vb-en.png\": \"BIAQ\",\n\t\"./aira-overview-en.png\": \"qK92\",\n\t\"./baxter-en.png\": \"kGUD\",\n\t\"./baxter2-en.png\": \"F2wv\",\n\t\"./carbon-footprint-sensor-en.png\": \"uKws\",\n\t\"./carbon-footprint-service-en.png\": \"z7kF\",\n\t\"./community-en.png\": \"lIBr\",\n\t\"./configuration-options-description-en.png\": \"Kvxm\",\n\t\"./connect-any-ros-compatible-robot-under-robonomics-parachain-control-1-en.png\": \"eqxc\",\n\t\"./connect-any-ros-compatible-robot-under-robonomics-parachain-control-2-en.png\": \"v1/N\",\n\t\"./connect-mars-curiosity-rover-under-robonomics-parachain-control-en.png\": \"jyUC\",\n\t\"./connect-sensor-to-robonomics-en.png\": \"Dg6W\",\n\t\"./connect-simple-cps-en.png\": \"qauA\",\n\t\"./connectivity-terminal-readme-en.png\": \"dbKQ\",\n\t\"./contributing-en.png\": \"nHSM\",\n\t\"./create-account-in-dapp-en.png\": \"4vvK\",\n\t\"./create-digital-identity-run-by-ethereum-en.png\": \"y3XH\",\n\t\"./cross-chain-messages-en.png\": \"3ju6\",\n\t\"./datalog-en.png\": \"SymH\",\n\t\"./deploy-sensor-map-en.png\": \"MdDA\",\n\t\"./digital-twins-en.png\": \"y4vX\",\n\t\"./edit-wiki-en.png\": \"Khtf\",\n\t\"./ethereum-common-en.png\": \"zlcB\",\n\t\"./ethereum-common-messages-en.png\": \"29Ar\",\n\t\"./feecc-system-architecture-en.png\": \"5wC+\",\n\t\"./feecc-system-deploy-feecc-analytics-en.png\": \"cJwD\",\n\t\"./feecc-system-deploy-feecc-wb-en.png\": \"FZmz\",\n\t\"./feecc-system-dev-feecc-analytics-en.png\": \"imwK\",\n\t\"./feecc-system-overview-en.png\": \"s7Gu\",\n\t\"./feecc-system-quickstart-en.png\": \"t7Vp\",\n\t\"./feecc-system-supporthardware-en.png\": \"An2I\",\n\t\"./freertos-mqtt-en.png\": \"qGfa\",\n\t\"./gaka-chu-en.png\": \"Zb/o\",\n\t\"./get-subscription-en.png\": \"Xcs0\",\n\t\"./getting-started-en.png\": \"g05E\",\n\t\"./global-administration-en.png\": \"Sb5a\",\n\t\"./glossary-en.png\": \"4HdC\",\n\t\"./hardware-connect-sensor-en.png\": \"D6UU\",\n\t\"./hardware-passing-dynamic-parameters-en.png\": \"B/K+\",\n\t\"./hass-core-upgrade-en.png\": \"nhgA\",\n\t\"./hass-docker-upgrade-en.png\": \"JIlO\",\n\t\"./hass-image-install-en.png\": \"EnAj\",\n\t\"./hass-init-en.png\": \"j7I2\",\n\t\"./hass-os-upgrade-en.png\": \"nzXq\",\n\t\"./how to update robonomics collator node version-en.png\": \"eBLb\",\n\t\"./how-to-build-collator-node-en.png\": \"JVkh\",\n\t\"./how-to-launch-the-robonomics-collator-en.png\": \"2wET\",\n\t\"./interact-with-aira-en.png\": \"RJI1\",\n\t\"./iot-firmware-upload-en.png\": \"CLu3\",\n\t\"./iot-sensors-connectivity-en.png\": \"7HmW\",\n\t\"./iot-sub-setup-en.png\": \"3v+Y\",\n\t\"./ipfs-common-en.png\": \"wNIr\",\n\t\"./ipfs-common-messages-en.png\": \"noq/\",\n\t\"./iris-drone-en.png\": \"EjR3\",\n\t\"./kuka-en.png\": \"Yil8\",\n\t\"./launch-en.png\": \"DkHd\",\n\t\"./liability-en.png\": \"C2Er\",\n\t\"./lightsout-factory-about-en.png\": \"n2Xa\",\n\t\"./lightsout-factory-ports-en.png\": \"k6IA\",\n\t\"./market-messages-en.png\": \"yMDi\",\n\t\"./mqtt-hassos-en.png\": \"3bBO\",\n\t\"./mqtt-image-docker-core-en.png\": \"s7Z3\",\n\t\"./mqtt-integration-en.png\": \"yAZ8\",\n\t\"./notifications-en.png\": \"itmn\",\n\t\"./playground-overview-en.png\": \"MaVI\",\n\t\"./r-and-d-based-on-robonomics-network-en.png\": \"YeJY\",\n\t\"./rinterface-en.png\": \"pEdv\",\n\t\"./robonomics-become-a-provider-en.png\": \"c1zx\",\n\t\"./robonomics-coffee-en.png\": \"7/nz\",\n\t\"./robonomics-contracts-deployment-en.png\": \"7yOJ\",\n\t\"./robonomics-hass-integration-en.png\": \"Ns3M\",\n\t\"./robonomics-how-it-works-en.png\": \"SKmx\",\n\t\"./robonomics-js-en.png\": \"KIzc\",\n\t\"./robonomics-liability-en.png\": \"qOI+\",\n\t\"./robonomics-liability-messages-en.png\": \"xRRl\",\n\t\"./robonomics-prometheus-grafana-en.png\": \"c3cg\",\n\t\"./robonomics-smart-home-overview-en.png\": \"GX92\",\n\t\"./robonomics-test-network-manual-en.png\": \"gTQY\",\n\t\"./ros-smart-projects-en.png\": \"1QSh\",\n\t\"./roseman-en.png\": \"4/9G\",\n\t\"./run-dev-node-en.png\": \"LBOO\",\n\t\"./securely-connect-cloud-ai-to-the-factory-floor-en.png\": \"2+8B\",\n\t\"./sensor-hardware-en.png\": \"K4Q2\",\n\t\"./sensor-setup-en.png\": \"dG1B\",\n\t\"./sensors-connectivity-contribution-en.png\": \"/fmS\",\n\t\"./sensors-connectivity-on-aira-en.png\": \"v0kC\",\n\t\"./sensors-connectivity-setup-en.png\": \"0LSX\",\n\t\"./sensors-network-introduction-en.png\": \"gHXQ\",\n\t\"./sls-gateway-en.png\": \"COFF\",\n\t\"./smart-home-telemetry-en.png\": \"Pinx\",\n\t\"./spot-lesson0-en.png\": \"2pry\",\n\t\"./spot-lesson1-en.png\": \"Q/3B\",\n\t\"./spot-lesson2-en.png\": \"hX00\",\n\t\"./spot-lesson3-en.png\": \"4JBA\",\n\t\"./spot-lesson4-en.png\": \"+4JW\",\n\t\"./spot-lesson5-en.png\": \"xNFf\",\n\t\"./spot-troubleshooting-en.png\": \"HKAp\",\n\t\"./spot-try-it-out-en.png\": \"9SWk\",\n\t\"./sub-activate-en.png\": \"4xtK\",\n\t\"./subscription-launch-en.png\": \"NORK\",\n\t\"./technical-committee-fast-track-en.png\": \"JsqE\",\n\t\"./translate-wiki-en.png\": \"aY5B\",\n\t\"./troubleshooting-en.png\": \"Zhhw\",\n\t\"./use-blueprints-en.png\": \"RUWx\",\n\t\"./xcm-robobank-en.png\": \"QwKG\",\n\t\"./zigbee-to-mqtt-en.png\": \"Yo0K\",\n\t\"./zigbee2-mqtt-en.png\": \"WpQe\"\n};\n\n\nfunction webpackContext(req) {\n\tvar id = webpackContextResolve(req);\n\treturn __webpack_require__(id);\n}\nfunction webpackContextResolve(req) {\n\tif(!__webpack_require__.o(map, req)) {\n\t\tvar e = new Error(\"Cannot find module '\" + req + \"'\");\n\t\te.code = 'MODULE_NOT_FOUND';\n\t\tthrow e;\n\t}\n\treturn map[req];\n}\nwebpackContext.keys = function webpackContextKeys() {\n\treturn Object.keys(map);\n};\nwebpackContext.resolve = webpackContextResolve;\nmodule.exports = webpackContext;\nwebpackContext.id = \"jEse\";\n\n//# sourceURL=webpack:///./docs/docsCovers_sync_^\\.\\/.*$?");
 
 /***/ }),
 
@@ -1213,17 +1048,6 @@ eval("module.exports = __webpack_require__.p + \"assets/img/baxter-en.60604bec.p
 /***/ (function(module, exports, __webpack_require__) {
 
 eval("module.exports = __webpack_require__.p + \"assets/img/community-en.7f1ef9ee.png\";\n\n//# sourceURL=webpack:///./docs/docsCovers/community-en.png?");
-
-/***/ }),
-
-/***/ "mYTL":
-/*!******************************************************************!*\
-  !*** ./docs/docsCovers/changing-exodus-receiving-address-en.png ***!
-  \******************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"assets/img/changing-exodus-receiving-address-en.ca84583e.png\";\n\n//# sourceURL=webpack:///./docs/docsCovers/changing-exodus-receiving-address-en.png?");
 
 /***/ }),
 
@@ -1373,17 +1197,6 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _nod
 
 /***/ }),
 
-/***/ "r/TK":
-/*!************************************************!*\
-  !*** ./docs/docsCovers/upgrade-hass-os-en.png ***!
-  \************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"assets/img/upgrade-hass-os-en.09861a68.png\";\n\n//# sourceURL=webpack:///./docs/docsCovers/upgrade-hass-os-en.png?");
-
-/***/ }),
-
 /***/ "r7fH":
 /*!************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/babel-loader/lib??ref--1-1!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/templates/DocPage.vue?vue&type=script&lang=js& ***!
@@ -1426,17 +1239,6 @@ eval("module.exports = __webpack_require__.p + \"assets/img/mqtt-image-docker-co
 /***/ (function(module, exports, __webpack_require__) {
 
 eval("module.exports = __webpack_require__.p + \"assets/img/feecc-system-quickstart-en.be299a56.png\";\n\n//# sourceURL=webpack:///./docs/docsCovers/feecc-system-quickstart-en.png?");
-
-/***/ }),
-
-/***/ "tKwg":
-/*!**********************************************************************!*\
-  !*** ./docs/docsCovers/wschool2021-robonomics-io-in-practice-en.png ***!
-  \**********************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"assets/img/wschool2021-robonomics-io-in-practice-en.b6ceba78.png\";\n\n//# sourceURL=webpack:///./docs/docsCovers/wschool2021-robonomics-io-in-practice-en.png?");
 
 /***/ }),
 
@@ -1492,17 +1294,6 @@ eval("module.exports = __webpack_require__.p + \"assets/img/connect-any-ros-comp
 /***/ (function(module, exports, __webpack_require__) {
 
 eval("module.exports = __webpack_require__.p + \"assets/img/ipfs-common-en.849737e6.png\";\n\n//# sourceURL=webpack:///./docs/docsCovers/ipfs-common-en.png?");
-
-/***/ }),
-
-/***/ "x0fr":
-/*!*****************************************************************************!*\
-  !*** ./docs/docsCovers/wschool2021-robonomics-parachain-in-practice-en.png ***!
-  \*****************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"assets/img/wschool2021-robonomics-parachain-in-practice-en.ade5879f.png\";\n\n//# sourceURL=webpack:///./docs/docsCovers/wschool2021-robonomics-parachain-in-practice-en.png?");
 
 /***/ }),
 
@@ -1569,17 +1360,6 @@ eval("module.exports = __webpack_require__.p + \"assets/img/mqtt-integration-en.
 /***/ (function(module, exports, __webpack_require__) {
 
 eval("module.exports = __webpack_require__.p + \"assets/img/market-messages-en.0606e7c2.png\";\n\n//# sourceURL=webpack:///./docs/docsCovers/market-messages-en.png?");
-
-/***/ }),
-
-/***/ "ySCY":
-/*!*****************************************************!*\
-  !*** ./docs/docsCovers/home-assistant-begin-en.png ***!
-  \*****************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-eval("module.exports = __webpack_require__.p + \"assets/img/home-assistant-begin-en.4cdd5464.png\";\n\n//# sourceURL=webpack:///./docs/docsCovers/home-assistant-begin-en.png?");
 
 /***/ }),
 
